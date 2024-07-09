@@ -19,5 +19,3 @@ Instrucciones para realizar pruebas y verificar el funcionamiento del proyecto.
 
 ![Captura de pantalla de la aplicación](imgs/2.png)
 
-![Captura de pantalla de la aplicación](imgs/3.png)
-
